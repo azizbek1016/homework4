@@ -1,0 +1,22 @@
+.container {
+    width: 1000px;
+    height: 650px;
+    padding: 20px;
+    background: rgb(30, 30, 72);
+    margin: 0 auto;
+ }
+ .box {
+    color: rgb(0, 251, 0);
+    font-size: 15px;
+ }
+ .box1 {
+    color: rgba(0, 255, 0, 0.981);
+    font-size: 30px;
+ }     
+ .box2 {    
+    font-size: 450px;
+ }      
+ .box3 {
+    color: red;
+     float: right;
+ }    
